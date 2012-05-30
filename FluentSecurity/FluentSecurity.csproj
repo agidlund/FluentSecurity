@@ -85,6 +85,7 @@
     <Compile Include="Internals\HttpContextRequestDescription.cs" />
     <Compile Include="IConvention.cs" />
     <Compile Include="Configuration\IPolicyContainerConfiguration.cs" />
+    <Compile Include="Configuration\PolicyContainerConfigurationWrapper.cs" />
     <Compile Include="Policy\ILazySecurityPolicy.cs" />
     <Compile Include="Internals\IRequestDescription.cs" />
     <Compile Include="Policy\Contexts\MvcSecurityContext.cs" />
